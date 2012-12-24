@@ -1,1 +1,1 @@
-egit!
+remote do somghietn egit!
